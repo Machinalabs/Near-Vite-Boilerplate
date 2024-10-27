@@ -1,19 +1,14 @@
-# Chain Abstracted Memecoin Launchpad
+# NEAR Vite Boilerplate
 
-This is a launchpad for memecoin that is chain agnostic and allow users to deploy to any EVM chain.
+A minimal NEAR + Vite Boilerplate.
 
-This initial version only supports:
-
-- Base testnet
-
-- Arbitrum testnet
 
 ## Getting Started
 
-To run the example:
+To run the boilerplate:
 
 ```bash
-$ git clone <REPO>
+$ git clone https://github.com/Machinalabs/near-vite-boilerplate.git
 
 $ nvm use
 
@@ -21,9 +16,3 @@ $ pnpm install
 
 $ pnpm run dev
 ```
-
-## Demo
-
-You can a working demo on:
-
-[chain-agnostic-memecoin-launchpad.vercel.app](http://chain-agnostic-memecoin-launchpad.vercel.app)
